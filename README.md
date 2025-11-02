@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aneeshraj05/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aneeshraj05/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aneeshraj05/leetcode/tree/master/0066-plus-one) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/aneeshraj05/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aneeshraj05/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aneeshraj05/leetcode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/aneeshraj05/leetcode/tree/master/0742-to-lower-case) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/aneeshraj05/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Binary Search
 |  |
 | ------- |
