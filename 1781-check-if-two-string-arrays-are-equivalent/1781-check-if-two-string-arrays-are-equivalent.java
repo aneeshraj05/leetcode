@@ -1,11 +1,9 @@
 class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
-       String s1=String.join(" ",word1).replaceAll(" ","");
-        String s2=String.join(" ",word2).replaceAll(" ","");
-        if(s1.equals(s2)){
-            return true;
-        }else{
-            return false;
-        }
+        StringBuilder str1=new StringBuilder("");
+        StringBuilder str2=new StringBuilder("");
+        for(String s:word1) str1.append(s);
+        for(String s:word2) str2.append(s);
+        return str1.toString().equals(str2.toString());
     }
 }
