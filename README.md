@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/aneeshraj05/leetcode/tree/master/1748-sum-of-unique-elements) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aneeshraj05/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
