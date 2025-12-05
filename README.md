@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/aneeshraj05/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aneeshraj05/leetcode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aneeshraj05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/aneeshraj05/leetcode/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aneeshraj05/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aneeshraj05/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aneeshraj05/leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aneeshraj05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/aneeshraj05/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
