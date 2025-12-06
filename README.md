@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aneeshraj05/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aneeshraj05/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aneeshraj05/leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/aneeshraj05/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/aneeshraj05/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/aneeshraj05/leetcode/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/aneeshraj05/leetcode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/aneeshraj05/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aneeshraj05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/aneeshraj05/leetcode/tree/master/0645-set-mismatch) |
