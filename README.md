@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/aneeshraj05/leetcode/tree/master/0704-binary-search) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aneeshraj05/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aneeshraj05/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0867-transpose-matrix) |
 | [1095-find-in-mountain-array](https://github.com/aneeshraj05/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1748-sum-of-unique-elements](https://github.com/aneeshraj05/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/aneeshraj05/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0867-transpose-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aneeshraj05/leetcode/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
