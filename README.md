@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aneeshraj05/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/aneeshraj05/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0169-majority-element](https://github.com/aneeshraj05/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aneeshraj05/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aneeshraj05/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aneeshraj05/leetcode/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/aneeshraj05/leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/aneeshraj05/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aneeshraj05/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aneeshraj05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/aneeshraj05/leetcode/tree/master/0645-set-mismatch) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aneeshraj05/leetcode/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/aneeshraj05/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Database
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aneeshraj05/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aneeshraj05/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/aneeshraj05/leetcode/tree/master/0645-set-mismatch) |
 ## Matrix
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0867-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aneeshraj05/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
