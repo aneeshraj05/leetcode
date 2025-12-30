@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aneeshraj05/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/aneeshraj05/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aneeshraj05/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aneeshraj05/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aneeshraj05/leetcode/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aneeshraj05/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aneeshraj05/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/aneeshraj05/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aneeshraj05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/aneeshraj05/leetcode/tree/master/0268-missing-number) |
