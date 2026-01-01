@@ -4,17 +4,13 @@ class Solution {
             if(digits[i]<9){
                 digits[i]++;
                 return digits;
-
             }
             digits[i]=0;
 
         }
-        int[] arr= new int[digits.length+1];
-        arr[0]=1;
-        return arr;
-
-
-
+        int[] ans=new int[digits.length+1];
+        ans[0]=1;
+        return ans;
+        
     }
-   
 }
