@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aneeshraj05/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aneeshraj05/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aneeshraj05/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/aneeshraj05/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/aneeshraj05/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aneeshraj05/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/aneeshraj05/leetcode/tree/master/0509-fibonacci-number) |
@@ -244,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aneeshraj05/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/aneeshraj05/leetcode/tree/master/0707-design-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aneeshraj05/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aneeshraj05/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
