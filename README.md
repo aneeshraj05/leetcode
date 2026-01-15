@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aneeshraj05/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aneeshraj05/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0867-transpose-matrix) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aneeshraj05/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1095-find-in-mountain-array](https://github.com/aneeshraj05/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aneeshraj05/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/aneeshraj05/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/aneeshraj05/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/aneeshraj05/leetcode/tree/master/0509-fibonacci-number) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aneeshraj05/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aneeshraj05/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/aneeshraj05/leetcode/tree/master/0645-set-mismatch) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aneeshraj05/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1748-sum-of-unique-elements](https://github.com/aneeshraj05/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aneeshraj05/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aneeshraj05/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aneeshraj05/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aneeshraj05/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1748-sum-of-unique-elements](https://github.com/aneeshraj05/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Database
 |  |
@@ -307,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aneeshraj05/leetcode/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
