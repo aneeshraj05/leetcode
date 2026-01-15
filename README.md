@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/aneeshraj05/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/aneeshraj05/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aneeshraj05/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/aneeshraj05/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/aneeshraj05/leetcode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aneeshraj05/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aneeshraj05/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aneeshraj05/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/aneeshraj05/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/aneeshraj05/leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/aneeshraj05/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aneeshraj05/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aneeshraj05/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
