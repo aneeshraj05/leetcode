@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aneeshraj05/leetcode/tree/master/0509-fibonacci-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1952-three-divisors](https://github.com/aneeshraj05/leetcode/tree/master/1952-three-divisors) |
 ## String
 |  |
 | ------- |
@@ -312,4 +313,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/aneeshraj05/leetcode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1952-three-divisors](https://github.com/aneeshraj05/leetcode/tree/master/1952-three-divisors) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aneeshraj05/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
