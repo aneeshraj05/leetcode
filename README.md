@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/aneeshraj05/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aneeshraj05/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/aneeshraj05/leetcode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/aneeshraj05/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aneeshraj05/leetcode/tree/master/0509-fibonacci-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
