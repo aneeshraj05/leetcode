@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/aneeshraj05/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aneeshraj05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/aneeshraj05/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/aneeshraj05/leetcode/tree/master/2427-number-of-common-factors) |
 ## String
 |  |
 | ------- |
@@ -329,10 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/aneeshraj05/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aneeshraj05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/aneeshraj05/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/aneeshraj05/leetcode/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/aneeshraj05/leetcode/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/aneeshraj05/leetcode/tree/master/2427-number-of-common-factors) |
 ## Bucket Sort
 |  |
 | ------- |
