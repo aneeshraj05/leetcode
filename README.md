@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aneeshraj05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aneeshraj05/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aneeshraj05/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aneeshraj05/leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/aneeshraj05/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aneeshraj05/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aneeshraj05/leetcode/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aneeshraj05/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aneeshraj05/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aneeshraj05/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aneeshraj05/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aneeshraj05/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aneeshraj05/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/aneeshraj05/leetcode/tree/master/0268-missing-number) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aneeshraj05/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/aneeshraj05/leetcode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1952-three-divisors](https://github.com/aneeshraj05/leetcode/tree/master/1952-three-divisors) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aneeshraj05/leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/aneeshraj05/leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/aneeshraj05/leetcode/tree/master/2427-number-of-common-factors) |
 ## Bucket Sort
