@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aneeshraj05/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/aneeshraj05/leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aneeshraj05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/aneeshraj05/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/aneeshraj05/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/aneeshraj05/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aneeshraj05/leetcode/tree/master/0724-find-pivot-index) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aneeshraj05/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aneeshraj05/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aneeshraj05/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/aneeshraj05/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/aneeshraj05/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/aneeshraj05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aneeshraj05/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
