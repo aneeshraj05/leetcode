@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aneeshraj05/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aneeshraj05/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aneeshraj05/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aneeshraj05/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aneeshraj05/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aneeshraj05/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aneeshraj05/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aneeshraj05/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aneeshraj05/leetcode/tree/master/0027-remove-element) |
@@ -430,5 +432,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aneeshraj05/leetcode/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/aneeshraj05/leetcode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
