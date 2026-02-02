@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aneeshraj05/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/aneeshraj05/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aneeshraj05/leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/aneeshraj05/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aneeshraj05/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aneeshraj05/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aneeshraj05/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aneeshraj05/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/aneeshraj05/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aneeshraj05/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aneeshraj05/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aneeshraj05/leetcode/tree/master/0189-rotate-array) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aneeshraj05/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aneeshraj05/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0867-transpose-matrix) |
