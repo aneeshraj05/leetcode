@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/aneeshraj05/leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/aneeshraj05/leetcode/tree/master/0742-to-lower-case) |
 | [1154-day-of-the-year](https://github.com/aneeshraj05/leetcode/tree/master/1154-day-of-the-year) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aneeshraj05/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/aneeshraj05/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aneeshraj05/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aneeshraj05/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/aneeshraj05/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aneeshraj05/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aneeshraj05/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aneeshraj05/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
