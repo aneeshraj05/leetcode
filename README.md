@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aneeshraj05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/aneeshraj05/leetcode/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/aneeshraj05/leetcode/tree/master/1095-find-in-mountain-array) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/aneeshraj05/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aneeshraj05/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/aneeshraj05/leetcode/tree/master/1480-running-sum-of-1d-array) |
