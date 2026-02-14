@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/aneeshraj05/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aneeshraj05/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aneeshraj05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/aneeshraj05/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1154-day-of-the-year](https://github.com/aneeshraj05/leetcode/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aneeshraj05/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
