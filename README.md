@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aneeshraj05/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/aneeshraj05/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0922-sort-array-by-parity-ii](https://github.com/aneeshraj05/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aneeshraj05/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aneeshraj05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/aneeshraj05/leetcode/tree/master/1051-height-checker) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aneeshraj05/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/aneeshraj05/leetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/aneeshraj05/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/aneeshraj05/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Math
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aneeshraj05/leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aneeshraj05/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/aneeshraj05/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/aneeshraj05/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/aneeshraj05/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aneeshraj05/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
