@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/aneeshraj05/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aneeshraj05/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/aneeshraj05/leetcode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/aneeshraj05/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/aneeshraj05/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aneeshraj05/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aneeshraj05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/aneeshraj05/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/aneeshraj05/leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/aneeshraj05/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0504-base-7](https://github.com/aneeshraj05/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/aneeshraj05/leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/aneeshraj05/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/aneeshraj05/leetcode/tree/master/0742-to-lower-case) |
