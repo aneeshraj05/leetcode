@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aneeshraj05/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1518-water-bottles](https://github.com/aneeshraj05/leetcode/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/aneeshraj05/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aneeshraj05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aneeshraj05/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/aneeshraj05/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/aneeshraj05/leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0867-transpose-matrix) |
+| [1518-water-bottles](https://github.com/aneeshraj05/leetcode/tree/master/1518-water-bottles) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aneeshraj05/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Divide and Conquer
 |  |
