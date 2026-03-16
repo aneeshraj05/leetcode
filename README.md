@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aneeshraj05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/aneeshraj05/leetcode/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/aneeshraj05/leetcode/tree/master/1095-find-in-mountain-array) |
+| [1207-unique-number-of-occurrences](https://github.com/aneeshraj05/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/aneeshraj05/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aneeshraj05/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aneeshraj05/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aneeshraj05/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/aneeshraj05/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aneeshraj05/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/aneeshraj05/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aneeshraj05/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
