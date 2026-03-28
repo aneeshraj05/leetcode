@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aneeshraj05/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/aneeshraj05/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1518-water-bottles](https://github.com/aneeshraj05/leetcode/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/aneeshraj05/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aneeshraj05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/aneeshraj05/leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/aneeshraj05/leetcode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/aneeshraj05/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aneeshraj05/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
