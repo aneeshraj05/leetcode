@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/aneeshraj05/leetcode/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/aneeshraj05/leetcode/tree/master/0771-jewels-and-stones) |
 | [1154-day-of-the-year](https://github.com/aneeshraj05/leetcode/tree/master/1154-day-of-the-year) |
+| [1446-consecutive-characters](https://github.com/aneeshraj05/leetcode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aneeshraj05/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/aneeshraj05/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aneeshraj05/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
