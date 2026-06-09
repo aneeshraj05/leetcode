@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/aneeshraj05/leetcode/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aneeshraj05/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/aneeshraj05/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/aneeshraj05/leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aneeshraj05/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
 |  |
