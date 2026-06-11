@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aneeshraj05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aneeshraj05/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aneeshraj05/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1103-distribute-candies-to-people](https://github.com/aneeshraj05/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/aneeshraj05/leetcode/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aneeshraj05/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/aneeshraj05/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/aneeshraj05/leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/aneeshraj05/leetcode/tree/master/0867-transpose-matrix) |
+| [1103-distribute-candies-to-people](https://github.com/aneeshraj05/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/aneeshraj05/leetcode/tree/master/1518-water-bottles) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aneeshraj05/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Divide and Conquer
