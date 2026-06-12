@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/aneeshraj05/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/aneeshraj05/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aneeshraj05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aneeshraj05/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aneeshraj05/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3719-longest-balanced-subarray-i](https://github.com/aneeshraj05/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/aneeshraj05/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aneeshraj05/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aneeshraj05/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aneeshraj05/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3719-longest-balanced-subarray-i](https://github.com/aneeshraj05/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/aneeshraj05/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/aneeshraj05/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aneeshraj05/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aneeshraj05/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/aneeshraj05/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/aneeshraj05/leetcode/tree/master/1518-water-bottles) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aneeshraj05/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aneeshraj05/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aneeshraj05/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/aneeshraj05/leetcode/tree/master/0409-longest-palindrome) |
 | [0860-lemonade-change](https://github.com/aneeshraj05/leetcode/tree/master/0860-lemonade-change) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aneeshraj05/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Trie
 |  |
 | ------- |
@@ -568,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aneeshraj05/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aneeshraj05/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aneeshraj05/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
