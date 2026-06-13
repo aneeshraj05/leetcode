@@ -30,6 +30,6 @@ class Solution {
         }
         inorder(list,root.left);
         list.add(root.val);
-inorder(list,root.right);
+        inorder(list,root.right);
     }
 }
