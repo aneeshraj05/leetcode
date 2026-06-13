@@ -21,19 +21,34 @@ class Solution {
     public List<Integer> preorder(Node root) {  
         List<Integer> list=new ArrayList<>();
         if(root==null)  return list;   
-        Stack<Node> st=new Stack<>();
-        st.push(root);
-        while(!st.isEmpty()){
-            Node top=st.pop();
-            list.add(top.val);
-            for(int i=top.children.size()-1;i>=0;i--){
-                Node child=top.children.get(i);
-                st.push(child);
+        // Stack<Node> st=new Stack<>();
+        // st.push(root);
+        // while(!st.isEmpty()){
+        //     Node top=st.pop();
+        //     list.add(top.val);
+        //     for(int i=top.children.size()-1;i>=0;i--){
+        //         Node child=top.children.get(i);
+        //         st.push(child);
 
-            }
-        }  
-                    return list;
+        //     }
+        // }  
+        //             return list;
+        preorder(root,list);
+        return list;
  
         
     }
+    public void preorder(Node root,List<Integer> list){
+        if(root==null){
+            return;
+
+        }
+        list.add(root.val);
+
+        for(int i=0;i<root.children.size();i++){
+            preorder(root.children.get(i),list);
+        }
+    }
+
+
 }
