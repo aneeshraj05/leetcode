@@ -1,5 +1,5 @@
 class Solution {
-            HashSet<Integer> set=new HashSet<>();
+            Set<Integer> set=new TreeSet<>();
 
 
     public boolean isHappy(int n) {
