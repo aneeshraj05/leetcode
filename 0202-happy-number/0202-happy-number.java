@@ -1,5 +1,5 @@
 class Solution {
-            Set<Integer> set=new TreeSet<>();
+            Map<Integer,Integer> set=new HashMap<>();
 
 
     public boolean isHappy(int n) {
@@ -8,10 +8,10 @@ class Solution {
         if(n==1){
             return true;
         }
-        if(set.contains(n)){
+        if(set.containsKey(n)){
             return false;
         }
-        set.add(n);
+        set.put(n,0);
         int sum=0;
         while(n>0){
             int digit=n%10;
