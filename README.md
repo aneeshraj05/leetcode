@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/aneeshraj05/leetcode/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aneeshraj05/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/aneeshraj05/leetcode/tree/master/1154-day-of-the-year) |
+| [1328-break-a-palindrome](https://github.com/aneeshraj05/leetcode/tree/master/1328-break-a-palindrome) |
 | [1446-consecutive-characters](https://github.com/aneeshraj05/leetcode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aneeshraj05/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/aneeshraj05/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aneeshraj05/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/aneeshraj05/leetcode/tree/master/0409-longest-palindrome) |
 | [0860-lemonade-change](https://github.com/aneeshraj05/leetcode/tree/master/0860-lemonade-change) |
+| [1328-break-a-palindrome](https://github.com/aneeshraj05/leetcode/tree/master/1328-break-a-palindrome) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aneeshraj05/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Trie
 |  |
