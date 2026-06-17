@@ -19,12 +19,13 @@ class Solution {
             runner =runner.next;
         }
 if(runner==null){
-    return head=head.next;
+    return head.next;
 }
         while( runner.next!=null){
            runner =runner.next;
 
-           walker =walker.next;        }
+           walker =walker.next; 
+                  }
 
            walker.next=walker.next.next;
 
