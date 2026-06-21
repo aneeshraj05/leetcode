@@ -14,6 +14,9 @@ class Solution {
                 sum+=costs[i];
                 count++;
             }
+            else{
+                break;
+            }
         }
         return count;
         
