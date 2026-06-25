@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aneeshraj05/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aneeshraj05/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aneeshraj05/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/aneeshraj05/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aneeshraj05/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aneeshraj05/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aneeshraj05/leetcode/tree/master/0204-count-primes) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aneeshraj05/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/aneeshraj05/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aneeshraj05/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aneeshraj05/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/aneeshraj05/leetcode/tree/master/0392-is-subsequence) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aneeshraj05/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aneeshraj05/leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
