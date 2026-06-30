@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/aneeshraj05/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aneeshraj05/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aneeshraj05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/aneeshraj05/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aneeshraj05/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aneeshraj05/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3719-longest-balanced-subarray-i](https://github.com/aneeshraj05/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aneeshraj05/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aneeshraj05/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aneeshraj05/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/aneeshraj05/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3110-score-of-a-string](https://github.com/aneeshraj05/leetcode/tree/master/3110-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/aneeshraj05/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/aneeshraj05/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/aneeshraj05/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aneeshraj05/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aneeshraj05/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/aneeshraj05/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aneeshraj05/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3719-longest-balanced-subarray-i](https://github.com/aneeshraj05/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/aneeshraj05/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aneeshraj05/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/aneeshraj05/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/aneeshraj05/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aneeshraj05/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
