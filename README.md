@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aneeshraj05/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aneeshraj05/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aneeshraj05/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/aneeshraj05/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/aneeshraj05/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/aneeshraj05/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aneeshraj05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aneeshraj05/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/aneeshraj05/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aneeshraj05/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/aneeshraj05/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/aneeshraj05/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aneeshraj05/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aneeshraj05/leetcode/tree/master/0645-set-mismatch) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aneeshraj05/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/aneeshraj05/leetcode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/aneeshraj05/leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/aneeshraj05/leetcode/tree/master/0860-lemonade-change) |
 | [1328-break-a-palindrome](https://github.com/aneeshraj05/leetcode/tree/master/1328-break-a-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/aneeshraj05/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/aneeshraj05/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/aneeshraj05/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aneeshraj05/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/aneeshraj05/leetcode/tree/master/1833-maximum-ice-cream-bars) |
