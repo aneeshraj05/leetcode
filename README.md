@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aneeshraj05/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aneeshraj05/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1518-water-bottles](https://github.com/aneeshraj05/leetcode/tree/master/1518-water-bottles) |
+| [1903-largest-odd-number-in-string](https://github.com/aneeshraj05/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/aneeshraj05/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aneeshraj05/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aneeshraj05/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/aneeshraj05/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aneeshraj05/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aneeshraj05/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/aneeshraj05/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aneeshraj05/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/aneeshraj05/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3110-score-of-a-string](https://github.com/aneeshraj05/leetcode/tree/master/3110-score-of-a-string) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/aneeshraj05/leetcode/tree/master/0860-lemonade-change) |
 | [1328-break-a-palindrome](https://github.com/aneeshraj05/leetcode/tree/master/1328-break-a-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/aneeshraj05/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/aneeshraj05/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aneeshraj05/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aneeshraj05/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Trie
