@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aneeshraj05/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aneeshraj05/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/aneeshraj05/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/aneeshraj05/leetcode/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/aneeshraj05/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aneeshraj05/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aneeshraj05/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/aneeshraj05/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/aneeshraj05/leetcode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/aneeshraj05/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/aneeshraj05/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aneeshraj05/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Sliding Window
 |  |
@@ -657,4 +659,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aneeshraj05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aneeshraj05/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aneeshraj05/leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aneeshraj05/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
